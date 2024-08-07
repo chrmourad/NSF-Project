@@ -25,24 +25,35 @@ This project aims to identify the three variables that most significantly affect
 - Merged all the years by country
 - Split data once again by year for detailed examination
 
-    <img src="./images/Data_Cleanup.png" alt="" width="250" height="150">
+    <img src="./images/Data_Cleanup.png" width="250" height="150">
 
 ## Datasets
 
 The datasets are categorized by year, from 2015 to 2019.
-<img src="./images/Dataset.png" alt="" width="300" height="200">
+
+<img src="./images/Dataset.png" width="350" height="250">
 
 ## Analysis
 
 > ### Linear Regression
 
 - **Columns vs Happiness Score:** Analyzed columns relative to happiness scores for the years 2015 to 2019.
-  > ### Multiple Linear Regression
+  <img src="./images/2015_Dataset.png" width="350" height="200"> <img src="./images/2016_Dataset.png" width="350" height="200">
+
+      <img src="./images/2017_Dataset.png" width="350" height="200"> <img src="./images/2018_Dataset.png" width="350" height="200">
+
+      <img src="./images/2019_Dataset.png" width="350" height="200">
+
+> ### Multiple Linear Regression
+
 - **Graphs:** Visualized relationships and trends.
 - **Model Evaluation:**
+
   - _R² Coefficient:_ Measures the proportion of variance explained by the model.
   - _Mean Square Error:_ Assesses the average squared difference between predicted and actual values.
   - _Multicollinearity:_ Evaluated to ensure predictor variables are not highly correlated.
+
+    <img src="./images/Modeling.png" width="300" height="150"> <img src="./images/Multicollinearity.png" width="280" height="150">
 
 ### Conclusion
 
