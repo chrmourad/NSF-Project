@@ -40,9 +40,9 @@ The datasets are categorized by year, from 2015 to 2019.
 - **Columns vs Happiness Score:** Analyzed columns relative to happiness scores for the years 2015 to 2019.
   <img src="./images/2015_Dataset.png" width="350" height="200"> <img src="./images/2016_Dataset.png" width="350" height="200">
 
-      <img src="./images/2017_Dataset.png" width="350" height="200"> <img src="./images/2018_Dataset.png" width="350" height="200">
+  <img src="./images/2017_Dataset.png" width="350" height="200"> <img src="./images/2018_Dataset.png" width="350" height="200">
 
-      <img src="./images/2019_Dataset.png" width="350" height="200">
+    <img src="./images/2019_Dataset.png" width="350" height="200">
 
 > ### Multiple Linear Regression
 
